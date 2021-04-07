@@ -1,4 +1,4 @@
-package com.dgl114.improveddiceroller;
+package com.dgl114.assignment4;
 
 import org.junit.Test;
 

@@ -1,13 +1,3 @@
 <resources>
-    <string name="app_name">Improved Dice Roller</string>
-    <string name="action_roll">Roll</string>
-    <string name="action_one">One</string>
-    <string name="action_two">Two</string>
-    <string name="action_three">Three</string>
-    <string name="action_stop">Stop</string>
-    <string name="dice_one">1</string>
-    <string name="add_one">Add one</string>
-    <string name="subtract_one">Subtract one</string>
-    <string name="roll">Roll</string>
-    <string name="picker">Choose Die Type</string>
+    <string name="app_name">assignment4</string>
 </resources>
